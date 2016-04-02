@@ -1,6 +1,8 @@
 # chupacabra
 Hello Pearl Hacks 2016
 
-## How to
-
 ## Description
+
+This is an example project for Pearl Hacks 2016
+
+## How To
